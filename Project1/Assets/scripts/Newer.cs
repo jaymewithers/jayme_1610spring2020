@@ -1,20 +1,20 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.Events;
 
 public class Newer : MonoBehaviour
 {
 
     public float floatNumber;
     public int scoreValue;
+    public UnityEvent uEvent;
     
     void Start()
     {
-        print(scoreValue);
+        uEvent.Invoke();
     }
     
     void Update()
     {
-        print((floatNumber));
+        
     }
 }

@@ -276,6 +276,7 @@ GameObject:
   - component: {fileID: 764864301}
   - component: {fileID: 764864300}
   - component: {fileID: 764864306}
+  - component: {fileID: 764864299}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -283,6 +284,45 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &764864299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764864298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed91496ad03a59b40a58ea238610cb20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  floatNumber: 10
+  scoreValue: 12
+  uEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 764864298}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 534669902}
+        m_MethodName: set_name
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: New Camera
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!65 &764864300
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -362,7 +402,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 764864298}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6239373109bdb9b4a9db20354ab07c38, type: 3}
   m_Name: 
