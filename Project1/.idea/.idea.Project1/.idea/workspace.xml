@@ -13,12 +13,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Newer.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/EventPractice.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +78,7 @@
       <workItem from="1579059994356" duration="1550000" />
       <workItem from="1579108076564" duration="2731000" />
       <workItem from="1579714738878" duration="2377000" />
+      <workItem from="1579802430547" duration="689000" />
     </task>
     <servers />
   </component>
