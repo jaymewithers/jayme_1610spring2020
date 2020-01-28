@@ -8,6 +8,9 @@
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
           <e p="EventPractice.cs" t="Include" />
+          <e p="Homework" t="Include">
+            <e p="TriggerEventsStayExit.cs" t="Include" />
+          </e>
           <e p="NewClass.cs" t="Include" />
           <e p="Newer.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />

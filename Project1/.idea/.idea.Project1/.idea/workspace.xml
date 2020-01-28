@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,6 +24,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Newer.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/EventPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +84,7 @@
       <workItem from="1579714738878" duration="2377000" />
       <workItem from="1579802430547" duration="689000" />
       <workItem from="1580176827446" duration="283000" />
+      <workItem from="1580179176035" duration="1812000" />
     </task>
     <servers />
   </component>
