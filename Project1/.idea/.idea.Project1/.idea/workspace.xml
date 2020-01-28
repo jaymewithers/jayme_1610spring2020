@@ -18,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TransformFunctions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -29,6 +30,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TransformFunctions.cs" />
       </list>
     </option>
   </component>
@@ -89,7 +91,7 @@
       <workItem from="1579802430547" duration="689000" />
       <workItem from="1580176827446" duration="283000" />
       <workItem from="1580179176035" duration="1812000" />
-      <workItem from="1580233598203" duration="1066000" />
+      <workItem from="1580233598203" duration="1605000" />
     </task>
     <servers />
   </component>

@@ -9,6 +9,7 @@
         <e p="scripts" t="Include">
           <e p="AtHomePractice" t="Include">
             <e p="ColorChanger.cs" t="Include" />
+            <e p="TransformFunctions.cs" t="Include" />
             <e p="VariablesAndFunctions.cs" t="Include" />
           </e>
           <e p="EventPractice.cs" t="Include" />
