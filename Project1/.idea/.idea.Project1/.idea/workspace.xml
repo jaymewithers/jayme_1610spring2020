@@ -23,6 +23,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -40,6 +41,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Destroy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/AutocompleteExperiments.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiements.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" />
       </list>
     </option>
   </component>
@@ -102,7 +105,7 @@
       <workItem from="1580179176035" duration="1812000" />
       <workItem from="1580233598203" duration="1605000" />
       <workItem from="1580317643707" duration="3050000" />
-      <workItem from="1580403646993" duration="2413000" />
+      <workItem from="1580403646993" duration="3595000" />
     </task>
     <servers />
   </component>
