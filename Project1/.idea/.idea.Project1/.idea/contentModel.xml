@@ -13,6 +13,7 @@
             <e p="KeyCodeExperiments.cs" t="Include" />
             <e p="LookAt.cs" t="Include" />
             <e p="TransformFunctions.cs" t="Include" />
+            <e p="UsingDeltaTime.cs" t="Include" />
             <e p="VariablesAndFunctions.cs" t="Include" />
           </e>
           <e p="EventPractice.cs" t="Include" />
