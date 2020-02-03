@@ -389,6 +389,7 @@ GameObject:
   - component: {fileID: 647396893}
   - component: {fileID: 647396892}
   - component: {fileID: 647396895}
+  - component: {fileID: 647396896}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -5225,7 +5226,7 @@ CharacterController:
   m_GameObject: {fileID: 647396885}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 2
   m_Height: 1
   m_Radius: 0.5
@@ -5246,6 +5247,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c131d13c65d8a44093542a80488d51a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &647396896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 647396885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7136e9c329328242954045b9a0da0ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 647396894}
+  speed: 5
+  gravity: -3
+  jumpForce: 10
 --- !u!1 &764864298
 GameObject:
   m_ObjectHideFlags: 0
@@ -10303,7 +10320,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1022396251}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 67029b6705d2c7f45a0dc9214a1e8c18, type: 3}
   m_Name: 
@@ -10318,7 +10335,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1022396251}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5e6b9743380c9a94fb3a0cf6a78a1d65, type: 3}
   m_Name: 
