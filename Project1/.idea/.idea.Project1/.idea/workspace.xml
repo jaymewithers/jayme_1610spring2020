@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TransformFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/DateTypeScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
@@ -45,6 +46,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiements.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingDeltaTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/OnAutocomplete.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DateTypeScript.cs" />
       </list>
     </option>
   </component>
@@ -109,6 +112,9 @@
       <workItem from="1580317643707" duration="3050000" />
       <workItem from="1580403646993" duration="4041000" />
       <workItem from="1580422110351" duration="709000" />
+      <workItem from="1580699501559" duration="492000" />
+      <workItem from="1580700432623" duration="256000" />
+      <workItem from="1580700744487" duration="28000" />
     </task>
     <servers />
   </component>
