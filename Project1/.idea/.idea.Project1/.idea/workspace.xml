@@ -20,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/DateTypeScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -50,6 +51,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/OnAutocomplete.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DateTypeScript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" />
       </list>
     </option>
   </component>
@@ -118,6 +120,7 @@
       <workItem from="1580700432623" duration="256000" />
       <workItem from="1580700744487" duration="28000" />
       <workItem from="1580759225642" duration="689000" />
+      <workItem from="1580839550185" duration="618000" />
     </task>
     <servers />
   </component>
