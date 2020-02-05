@@ -19,6 +19,7 @@
             <e p="VariablesAndFunctions.cs" t="Include" />
           </e>
           <e p="CharacterMovement.cs" t="Include" />
+          <e p="CharacterMover.cs" t="Include" />
           <e p="EventPractice.cs" t="Include" />
           <e p="Homework" t="Include">
             <e p="TriggerEventsStayExit.cs" t="Include" />
