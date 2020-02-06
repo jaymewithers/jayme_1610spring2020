@@ -7,7 +7,7 @@ public class CharacterMover : MonoBehaviour
     public Vector3 positionDirection;
     public float speed = 10f;
     public float gravity = 3f;
-    public float jumpForce = 10f;
+    public float jumpForce = 3f;
 
     void Start()
     {

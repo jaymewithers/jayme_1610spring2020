@@ -12,7 +12,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingDeltaTime.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -54,6 +56,9 @@
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovementControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" />
       </list>
     </option>
   </component>
@@ -124,7 +129,8 @@
       <workItem from="1580759225642" duration="689000" />
       <workItem from="1580839550185" duration="618000" />
       <workItem from="1580855517586" duration="2062000" />
-      <workItem from="1580923374913" duration="3025000" />
+      <workItem from="1580923374913" duration="3115000" />
+      <workItem from="1581009940080" duration="2627000" />
     </task>
     <servers />
   </component>
