@@ -24,6 +24,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Arrays.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -59,6 +60,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovementControls.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Arrays.cs" />
       </list>
     </option>
   </component>
@@ -131,6 +133,7 @@
       <workItem from="1580855517586" duration="2062000" />
       <workItem from="1580923374913" duration="3115000" />
       <workItem from="1581009940080" duration="2627000" />
+      <workItem from="1581132435649" duration="1206000" />
     </task>
     <servers />
   </component>

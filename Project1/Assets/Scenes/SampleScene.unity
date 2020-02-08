@@ -5270,9 +5270,10 @@ GameObject:
   - component: {fileID: 764864311}
   - component: {fileID: 764864312}
   - component: {fileID: 764864313}
+  - component: {fileID: 764864314}
   m_Layer: 0
-  m_Name: Player
-  m_TagString: Untagged
+  m_Name: Alex
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10206,6 +10207,19 @@ MonoBehaviour:
   bulletPrefab: {fileID: 0}
   firePosition: {fileID: 534669905}
   bulletSpeed: 0.01
+--- !u!114 &764864314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764864298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a67a822d9ff164c47b02ac0088d2005a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  players: []
 --- !u!1 &1022396251
 GameObject:
   m_ObjectHideFlags: 0
@@ -10569,8 +10583,8 @@ GameObject:
   - component: {fileID: 1485477041}
   - component: {fileID: 1485477046}
   m_Layer: 0
-  m_Name: Player 2
-  m_TagString: Untagged
+  m_Name: Willy
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
