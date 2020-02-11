@@ -5753,6 +5753,7 @@ GameObject:
   - component: {fileID: 1485477042}
   - component: {fileID: 1485477041}
   - component: {fileID: 1485477046}
+  - component: {fileID: 1485477047}
   m_Layer: 0
   m_Name: Player 1
   m_TagString: Player
@@ -5871,3 +5872,16 @@ MonoBehaviour:
   c: 14
   password: OU812
   canRun: 1
+--- !u!114 &1485477047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1485477040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49ddeb203b35d5f49883a1de4a136ac9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  intelligence: 1

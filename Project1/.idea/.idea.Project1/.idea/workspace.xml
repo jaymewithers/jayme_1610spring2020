@@ -21,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/InvokeScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/RigidbodyForces.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,6 +70,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/RigidbodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" />
       </list>
     </option>
   </component>
@@ -146,6 +148,7 @@
       <workItem from="1581273621575" duration="569000" />
       <workItem from="1581274318344" duration="345000" />
       <workItem from="1581354884467" duration="3466000" />
+      <workItem from="1581440989890" duration="524000" />
     </task>
     <servers />
   </component>

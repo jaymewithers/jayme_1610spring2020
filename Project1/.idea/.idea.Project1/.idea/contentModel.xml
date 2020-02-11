@@ -10,6 +10,7 @@
           <e p="AtHomePractice" t="Include">
             <e p="Arrays.cs" t="Include" />
             <e p="ColorChanger.cs" t="Include" />
+            <e p="Conversation.cs" t="Include" />
             <e p="DateTypeScript.cs" t="Include" />
             <e p="Destroy.cs" t="Include" />
             <e p="EnumScript.cs" t="Include" />
