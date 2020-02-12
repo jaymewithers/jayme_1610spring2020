@@ -9,6 +9,7 @@
         <e p="scripts" t="Include">
           <e p="AtHomePractice" t="Include">
             <e p="Arrays.cs" t="Include" />
+            <e p="CharacterMovement.cs" t="Include" />
             <e p="ColorChanger.cs" t="Include" />
             <e p="Conversation.cs" t="Include" />
             <e p="DateTypeScript.cs" t="Include" />
@@ -24,17 +25,19 @@
             <e p="UsingInstantiateDestroy.cs" t="Include" />
             <e p="VariablesAndFunctions.cs" t="Include" />
           </e>
-          <e p="CharacterMovement.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="EventPractice.cs" t="Include" />
           <e p="Homework" t="Include">
             <e p="TriggerEventsStayExit.cs" t="Include" />
           </e>
           <e p="IfStatements.cs" t="Include" />
+          <e p="LightController.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="Newer.cs" t="Include" />
           <e p="RigidbodyForces.cs" t="Include" />
+          <e p="SpriteController.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
         </e>
