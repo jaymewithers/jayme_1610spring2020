@@ -29,6 +29,8 @@
           <e p="CharacterMover.cs" t="Include" />
           <e p="EventPractice.cs" t="Include" />
           <e p="Homework" t="Include">
+            <e p="ButtonController.cs" t="Include" />
+            <e p="HaloController.cs" t="Include" />
             <e p="TriggerEventsStayExit.cs" t="Include" />
           </e>
           <e p="IfStatements.cs" t="Include" />
