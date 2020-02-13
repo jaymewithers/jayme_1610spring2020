@@ -16,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/LightController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TrailRenderController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingDeltaTime.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -37,7 +38,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Arrays.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/HaloController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
@@ -81,6 +81,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/ParticleController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/HaloController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Homework/TrailRenderController.cs" />
       </list>
     </option>
   </component>
@@ -160,7 +161,7 @@
       <workItem from="1581354884467" duration="3466000" />
       <workItem from="1581440989890" duration="524000" />
       <workItem from="1581527809637" duration="3474000" />
-      <workItem from="1581613122420" duration="2103000" />
+      <workItem from="1581613122420" duration="4239000" />
     </task>
     <servers />
   </component>
