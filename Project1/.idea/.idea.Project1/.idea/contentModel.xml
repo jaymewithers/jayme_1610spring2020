@@ -30,6 +30,7 @@
           <e p="EventPractice.cs" t="Include" />
           <e p="Homework" t="Include">
             <e p="ButtonController.cs" t="Include" />
+            <e p="Image.cs" t="Include" />
             <e p="TrailRenderController.cs" t="Include" />
             <e p="TriggerEventsStayExit.cs" t="Include" />
           </e>
