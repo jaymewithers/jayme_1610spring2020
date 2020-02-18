@@ -57,6 +57,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfStatementsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,6 +105,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/DropdownControl.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoop.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfStatementsTutorial.cs" />
       </list>
     </option>
   </component>
@@ -187,6 +189,7 @@
       <workItem from="1581812314097" duration="3232000" />
       <workItem from="1581904329776" duration="1936000" />
       <workItem from="1581984620958" duration="2037000" />
+      <workItem from="1582045494334" duration="416000" />
     </task>
     <servers />
   </component>
