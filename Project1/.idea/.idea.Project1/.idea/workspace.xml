@@ -101,6 +101,9 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/ParticleSystemsController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/Image.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/TextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Homework/DropdownControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoops.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoop.cs" />
       </list>
     </option>
   </component>
@@ -183,6 +186,7 @@
       <workItem from="1581613122420" duration="4239000" />
       <workItem from="1581812314097" duration="3232000" />
       <workItem from="1581904329776" duration="1936000" />
+      <workItem from="1581984620958" duration="2037000" />
     </task>
     <servers />
   </component>
