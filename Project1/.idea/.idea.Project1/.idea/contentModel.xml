@@ -30,14 +30,17 @@
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="EventPractice.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
           <e p="Homework" t="Include">
             <e p="ButtonController.cs" t="Include" />
-            <e p="Image.cs" t="Include" />
+            <e p="ImageController.cs" t="Include" />
             <e p="TextController.cs" t="Include" />
             <e p="TrailRenderController.cs" t="Include" />
             <e p="TriggerEventsStayExit.cs" t="Include" />
           </e>
           <e p="IfStatements.cs" t="Include" />
+          <e p="ImageBehaviour.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="LightController.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />

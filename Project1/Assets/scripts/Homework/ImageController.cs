@@ -1,10 +1,11 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.Experimental.UIElements;
 
 namespace Homework
 {
     [RequireComponent(typeof(Image))]
-    public class Image : MonoBehaviour
+    public class ImageController : MonoBehaviour
     {
         private Image imageControl;
         public Material imageMaterial;
