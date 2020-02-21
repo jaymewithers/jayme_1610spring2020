@@ -43,6 +43,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/RigidbodyForces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
@@ -111,6 +112,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" />
       </list>
     </option>
   </component>
@@ -198,6 +200,7 @@
       <workItem from="1582132392266" duration="2275000" />
       <workItem from="1582135700320" duration="432000" />
       <workItem from="1582217888948" duration="3975000" />
+      <workItem from="1582251421650" duration="940000" />
     </task>
     <servers />
   </component>
