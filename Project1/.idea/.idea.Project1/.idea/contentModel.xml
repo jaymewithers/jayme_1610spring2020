@@ -22,6 +22,7 @@
             <e p="LookAt.cs" t="Include" />
             <e p="Loops.cs" t="Include" />
             <e p="SingleCharacterScript.cs" t="Include" />
+            <e p="SpritePractice.cs" t="Include" />
             <e p="TransformFunctions.cs" t="Include" />
             <e p="UsingDeltaTime.cs" t="Include" />
             <e p="UsingInstantiate.cs" t="Include" />
