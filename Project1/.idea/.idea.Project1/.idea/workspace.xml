@@ -41,6 +41,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/InvokeScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Practice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -115,6 +116,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Practice.cs" />
       </list>
     </option>
   </component>
@@ -204,6 +206,7 @@
       <workItem from="1582217888948" duration="3975000" />
       <workItem from="1582251421650" duration="940000" />
       <workItem from="1582401319070" duration="2463000" />
+      <workItem from="1582495973106" duration="1034000" />
     </task>
     <servers />
   </component>
