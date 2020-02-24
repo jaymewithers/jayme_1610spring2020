@@ -28,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/LightController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
@@ -109,14 +110,15 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfStatementsTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/Image.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/LightController.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Practice.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/TextBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -207,6 +209,7 @@
       <workItem from="1582251421650" duration="940000" />
       <workItem from="1582401319070" duration="2463000" />
       <workItem from="1582495973106" duration="1034000" />
+      <workItem from="1582564535349" duration="3306000" />
     </task>
     <servers />
   </component>
