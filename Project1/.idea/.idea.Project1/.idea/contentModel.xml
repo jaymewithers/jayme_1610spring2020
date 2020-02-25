@@ -21,6 +21,7 @@
             <e p="KeyCodeExperiments.cs" t="Include" />
             <e p="LookAt.cs" t="Include" />
             <e p="Loops.cs" t="Include" />
+            <e p="MovingWall.cs" t="Include" />
             <e p="Practice.cs" t="Include" />
             <e p="SingleCharacterScript.cs" t="Include" />
             <e p="SpritePractice.cs" t="Include" />
