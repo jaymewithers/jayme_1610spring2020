@@ -98,7 +98,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/RigidbodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/ParticleController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/HaloController.cs" />
@@ -120,6 +119,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/CameraController.cs" />
       </list>
     </option>
   </component>
@@ -212,6 +212,7 @@
       <workItem from="1582495973106" duration="1034000" />
       <workItem from="1582564535349" duration="3306000" />
       <workItem from="1582649673009" duration="1983000" />
+      <workItem from="1582773891247" duration="358000" />
     </task>
     <servers />
   </component>
