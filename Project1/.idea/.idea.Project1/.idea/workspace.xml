@@ -38,6 +38,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/FollowBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/InvokeScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/Newer.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/EventPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" />
@@ -120,6 +120,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/FollowBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -213,6 +214,7 @@
       <workItem from="1582564535349" duration="3306000" />
       <workItem from="1582649673009" duration="1983000" />
       <workItem from="1582773891247" duration="358000" />
+      <workItem from="1582822840007" duration="2277000" />
     </task>
     <servers />
   </component>
