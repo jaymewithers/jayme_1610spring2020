@@ -16,6 +16,7 @@
             <e p="DateTypeScript.cs" t="Include" />
             <e p="Destroy.cs" t="Include" />
             <e p="EnumScript.cs" t="Include" />
+            <e p="Flight.cs" t="Include" />
             <e p="FollowBehaviour.cs" t="Include" />
             <e p="IfStatementsTutorial.cs" t="Include" />
             <e p="InvokeScript.cs" t="Include" />
