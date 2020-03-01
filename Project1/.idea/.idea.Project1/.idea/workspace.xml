@@ -25,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" root0="FORCE_HIGHLIGHTING" />
@@ -71,12 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorChanger.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TransformFunctions.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/TriggeringEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Destroy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/AutocompleteExperiments.cs" />
@@ -122,6 +117,12 @@
         <option value="$PROJECT_DIR$/Assets/scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/FollowBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Flight.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DiceGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Puzzle.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ActivatePuzzle.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/PuzzleControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorPuzzleLogic.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Enemy.cs" />
       </list>
     </option>
   </component>
@@ -217,6 +218,7 @@
       <workItem from="1582773891247" duration="358000" />
       <workItem from="1582822840007" duration="2277000" />
       <workItem from="1582998948458" duration="2284000" />
+      <workItem from="1583093349351" duration="3898000" />
     </task>
     <servers />
   </component>
