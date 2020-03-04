@@ -50,14 +50,17 @@
           <e p="ImageBehaviour.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="LightController.cs" t="Include" />
+          <e p="Monobehaviours.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="Newer.cs" t="Include" />
           <e p="RigidbodyForces.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />
+          <e p="StringData.cs" t="Include" />
           <e p="TextBehaviour.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
+          <e p="Vector3Data.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

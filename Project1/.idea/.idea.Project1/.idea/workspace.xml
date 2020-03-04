@@ -30,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/LightController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
@@ -40,6 +41,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/FollowBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/InvokeScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -54,6 +56,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/RigidbodyForces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/StringData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TransformFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -73,9 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Destroy.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Homework/AutocompleteExperiments.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiements.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingDeltaTime.cs" />
@@ -124,6 +124,9 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorPuzzleLogic.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DropdownControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/StringData.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Monobehaviours.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Vector3Data.cs" />
       </list>
     </option>
   </component>
@@ -221,6 +224,7 @@
       <workItem from="1582998948458" duration="2284000" />
       <workItem from="1583093349351" duration="3898000" />
       <workItem from="1583272996593" duration="1120000" />
+      <workItem from="1583342006842" duration="3293000" />
     </task>
     <servers />
   </component>
