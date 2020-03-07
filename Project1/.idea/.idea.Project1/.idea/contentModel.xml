@@ -9,6 +9,7 @@
         <e p="scripts" t="Include">
           <e p="AtHomePractice" t="Include">
             <e p="Arrays.cs" t="Include" />
+            <e p="BoolData.cs" t="Include" />
             <e p="CharacterMovement.cs" t="Include" />
             <e p="CharacterMoverPractice.cs" t="Include" />
             <e p="ColorChanger.cs" t="Include" />
@@ -19,6 +20,7 @@
             <e p="Enemy.cs" t="Include" />
             <e p="EnumScript.cs" t="Include" />
             <e p="Flight.cs" t="Include" />
+            <e p="Flip.cs" t="Include" />
             <e p="FollowBehaviour.cs" t="Include" />
             <e p="IfStatementsTutorial.cs" t="Include" />
             <e p="InvokeScript.cs" t="Include" />
