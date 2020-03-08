@@ -66,6 +66,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Flight.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/StringData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TransformFunctions.cs" root0="FORCE_HIGHLIGHTING" />
@@ -80,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovementControls.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" />
@@ -131,6 +131,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Spawn.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BoolData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Flip.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Functions.cs" />
       </list>
     </option>
   </component>
@@ -232,6 +233,7 @@
       <workItem from="1583428597113" duration="1824000" />
       <workItem from="1583521796656" duration="537000" />
       <workItem from="1583602599046" duration="1244000" />
+      <workItem from="1583686891663" duration="629000" />
     </task>
     <servers />
   </component>
