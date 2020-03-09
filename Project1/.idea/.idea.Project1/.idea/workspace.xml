@@ -52,6 +52,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TrailRenderController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingDeltaTime.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Spawn.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -81,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovementControls.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Arrays.cs" />
@@ -132,6 +132,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BoolData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Flip.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Functions.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponHandler.cs" />
       </list>
     </option>
   </component>
@@ -234,6 +235,7 @@
       <workItem from="1583521796656" duration="537000" />
       <workItem from="1583602599046" duration="1244000" />
       <workItem from="1583686891663" duration="629000" />
+      <workItem from="1583766762313" duration="438000" />
     </task>
     <servers />
   </component>
