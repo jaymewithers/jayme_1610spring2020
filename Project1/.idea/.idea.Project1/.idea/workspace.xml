@@ -41,6 +41,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Username.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -82,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Arrays.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/InvokeScript.cs" />
@@ -107,7 +107,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Practice.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TextBehaviour.cs" />
@@ -131,6 +130,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Spawn.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BoolData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Flip.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponConfig.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponHandler.cs" />
       </list>
@@ -236,6 +237,7 @@
       <workItem from="1583602599046" duration="1244000" />
       <workItem from="1583686891663" duration="629000" />
       <workItem from="1583766762313" duration="438000" />
+      <workItem from="1583855800435" duration="795000" />
     </task>
     <servers />
   </component>

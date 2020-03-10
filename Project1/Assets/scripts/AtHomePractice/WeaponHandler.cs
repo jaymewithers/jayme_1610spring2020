@@ -1,6 +1,4 @@
-﻿using System;
-using UnityEngine;
-using UnityEngine.Experimental.Rendering;
+﻿using UnityEngine;
 
 namespace AtHomePractice
 {
@@ -15,7 +13,7 @@ namespace AtHomePractice
             renderer.material.color = weaponObj.weaponColor;
         }
 
-        public void Fire()
+        private void Fire()
         {
             var ammo = Instantiate(weaponObj.ammoObj);
             var renderer = ammo.GetComponent<Renderer>();
@@ -28,6 +26,6 @@ namespace AtHomePractice
         }
     }
 }
-// continue with other related scripts (weaponconfig, weaponbuttonhandler, ammohandler) from 2670Fall2019
+// continue with other related scripts (weaponbuttonhandler, ammohandler) from 2670Fall2019
 
 // anthony's github

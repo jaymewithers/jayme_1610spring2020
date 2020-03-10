@@ -39,6 +39,7 @@
             <e p="UsingInstantiate.cs" t="Include" />
             <e p="UsingInstantiateDestroy.cs" t="Include" />
             <e p="VariablesAndFunctions.cs" t="Include" />
+            <e p="WeaponConfig.cs" t="Include" />
             <e p="WeaponHandler.cs" t="Include" />
           </e>
           <e p="CameraController.cs" t="Include" />
