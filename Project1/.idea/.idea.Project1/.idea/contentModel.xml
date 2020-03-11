@@ -44,6 +44,8 @@
           </e>
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
+          <e p="Collectable.cs" t="Include" />
+          <e p="CollectableList.cs" t="Include" />
           <e p="EventPractice.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Homework" t="Include">
@@ -57,6 +59,7 @@
           <e p="ImageBehaviour.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="LightController.cs" t="Include" />
+          <e p="ListAndLoops.cs" t="Include" />
           <e p="Monobehaviours.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
