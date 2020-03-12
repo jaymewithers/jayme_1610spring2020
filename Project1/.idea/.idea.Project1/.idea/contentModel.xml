@@ -30,6 +30,11 @@
             <e p="Loops.cs" t="Include" />
             <e p="MovingWall.cs" t="Include" />
             <e p="Practice.cs" t="Include" />
+            <e p="Related weapon stuff" t="Include">
+              <e p="AmmoHandler.cs" t="Include" />
+              <e p="WeaponConfig.cs" t="Include" />
+              <e p="WeaponHandler.cs" t="Include" />
+            </e>
             <e p="SingleCharacterScript.cs" t="Include" />
             <e p="Spawn.cs" t="Include" />
             <e p="SpritePractice.cs" t="Include" />
@@ -39,8 +44,6 @@
             <e p="UsingInstantiate.cs" t="Include" />
             <e p="UsingInstantiateDestroy.cs" t="Include" />
             <e p="VariablesAndFunctions.cs" t="Include" />
-            <e p="WeaponConfig.cs" t="Include" />
-            <e p="WeaponHandler.cs" t="Include" />
           </e>
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />

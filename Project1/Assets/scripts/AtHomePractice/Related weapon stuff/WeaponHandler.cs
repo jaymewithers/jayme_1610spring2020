@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace AtHomePractice
+namespace AtHomePractice.Related_weapon_stuff
 {
     public class WeaponHandler : MonoBehaviour
     {
@@ -26,6 +26,6 @@ namespace AtHomePractice
         }
     }
 }
-// continue with other related scripts (weaponbuttonhandler, ammohandler) from 2670Fall2019
+// continue with other related scripts (weaponbuttonhandler) from 2670Fall2019
 
 // anthony's github
