@@ -391,11 +391,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 11400000, guid: 9f345b56cf09f5749b1d736343427bca, type: 2}
-        m_MethodName: 
-        m_Mode: 1
+        m_MethodName: AddToCollection
+        m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgument: {fileID: 11400000, guid: 57c0266927e6b064b8ec53c213740257,
+            type: 2}
+          m_ObjectArgumentAssemblyTypeName: Collectable, Assembly-CSharp
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
