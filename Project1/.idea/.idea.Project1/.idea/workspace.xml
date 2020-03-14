@@ -56,6 +56,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TrailRenderController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingDeltaTime.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Spawn.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -86,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/ParticleController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" />
@@ -136,6 +136,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CollectableList.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/AmmoHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponButtonHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponHandler.cs" />
       </list>
     </option>
@@ -243,6 +244,7 @@
       <workItem from="1583855800435" duration="795000" />
       <workItem from="1583942881415" duration="3918000" />
       <workItem from="1584029130933" duration="837000" />
+      <workItem from="1584204258160" duration="870000" />
     </task>
     <servers />
   </component>

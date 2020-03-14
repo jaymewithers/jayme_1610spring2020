@@ -32,6 +32,7 @@
             <e p="Practice.cs" t="Include" />
             <e p="Related weapon stuff" t="Include">
               <e p="AmmoHandler.cs" t="Include" />
+              <e p="WeaponButtonHandler.cs" t="Include" />
               <e p="WeaponConfig.cs" t="Include" />
               <e p="WeaponHandler.cs" t="Include" />
             </e>

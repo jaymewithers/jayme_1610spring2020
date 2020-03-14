@@ -26,6 +26,5 @@ namespace AtHomePractice.Related_weapon_stuff
         }
     }
 }
-// continue with other related scripts (weaponbuttonhandler) from 2670Fall2019
 
 // anthony's github
