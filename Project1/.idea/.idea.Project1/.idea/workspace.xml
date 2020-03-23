@@ -35,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ListAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
@@ -49,6 +50,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/EnumsSwitches.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfStatementsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
@@ -87,8 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Homework/ParticleController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/HaloController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/TrailRenderController.cs" />
@@ -138,6 +138,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/AmmoHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponButtonHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/EnumsSwitches.cs" />
       </list>
     </option>
   </component>
@@ -245,6 +247,7 @@
       <workItem from="1583942881415" duration="3918000" />
       <workItem from="1584029130933" duration="837000" />
       <workItem from="1584204258160" duration="870000" />
+      <workItem from="1584980018736" duration="3746000" />
     </task>
     <servers />
   </component>

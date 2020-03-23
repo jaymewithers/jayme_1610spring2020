@@ -50,6 +50,8 @@
           <e p="CharacterMover.cs" t="Include" />
           <e p="Collectable.cs" t="Include" />
           <e p="CollectableList.cs" t="Include" />
+          <e p="Debugger.cs" t="Include" />
+          <e p="EnumsSwitches.cs" t="Include" />
           <e p="EventPractice.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Homework" t="Include">
