@@ -56,6 +56,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TrailRenderController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingDeltaTime.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
@@ -89,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/Homework/ButtonController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/HaloController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/TrailRenderController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/ParticleSystemsController.cs" />
@@ -135,11 +135,12 @@
         <option value="$PROJECT_DIR$/Assets/scripts/ListAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CollectableList.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/AmmoHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponButtonHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Debugger.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/EnumsSwitches.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/AmmoHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitch.cs" />
       </list>
     </option>
   </component>
@@ -247,7 +248,9 @@
       <workItem from="1583942881415" duration="3918000" />
       <workItem from="1584029130933" duration="837000" />
       <workItem from="1584204258160" duration="870000" />
-      <workItem from="1584980018736" duration="3746000" />
+      <workItem from="1584980018736" duration="3800000" />
+      <workItem from="1585066253029" duration="38000" />
+      <workItem from="1585066313477" duration="376000" />
     </task>
     <servers />
   </component>
@@ -274,10 +277,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581529752839" />
-    <state x="-9" y="18" width="774" height="761" key="dock-window-1" timestamp="1584029389008">
+    <state x="6" y="38" width="774" height="761" key="dock-window-1" timestamp="1585066685427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-9" y="18" width="774" height="761" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1584029389008" />
+    <state x="6" y="38" width="774" height="761" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1585066685427" />
     <state x="31" y="194" key="run.anything.popup" timestamp="1580233613778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

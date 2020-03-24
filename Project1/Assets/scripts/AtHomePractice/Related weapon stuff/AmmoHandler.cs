@@ -5,7 +5,7 @@ namespace AtHomePractice.Related_weapon_stuff
     [RequireComponent(typeof(Rigidbody))]
     public class AmmoHandler : MonoBehaviour
     {
-        private Rigidbody rigidbodyObj;
+        private Rigidbody rigidbodyObj = new Rigidbody();
         public Vector3 forces;
         
         void Start()

@@ -60,6 +60,7 @@
             <e p="TextController.cs" t="Include" />
             <e p="TrailRenderController.cs" t="Include" />
             <e p="TriggerEventsStayExit.cs" t="Include" />
+            <e p="WeaponSwitch.cs" t="Include" />
           </e>
           <e p="IfStatements.cs" t="Include" />
           <e p="ImageBehaviour.cs" t="Include" />
