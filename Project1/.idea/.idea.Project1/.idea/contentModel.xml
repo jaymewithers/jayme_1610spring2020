@@ -61,6 +61,7 @@
           <e p="Homework" t="Include">
             <e p="ButtonController.cs" t="Include" />
             <e p="ImageController.cs" t="Include" />
+            <e p="NavMeshPractice.cs" t="Include" />
             <e p="TextController.cs" t="Include" />
             <e p="TrailRenderController.cs" t="Include" />
             <e p="TriggerEventsStayExit.cs" t="Include" />
