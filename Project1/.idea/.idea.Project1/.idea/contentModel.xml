@@ -60,6 +60,7 @@
           <e p="EventPractice.cs" t="Include" />
           <e p="Homework" t="Include">
             <e p="ButtonController.cs" t="Include" />
+            <e p="CharacterWeaponSwitch.cs" t="Include" />
             <e p="ImageController.cs" t="Include" />
             <e p="NavMeshPractice.cs" t="Include" />
             <e p="TextController.cs" t="Include" />
