@@ -29,6 +29,7 @@
             <e p="LookAt.cs" t="Include" />
             <e p="Loops.cs" t="Include" />
             <e p="MovingWall.cs" t="Include" />
+            <e p="Pause.cs" t="Include" />
             <e p="Practice.cs" t="Include" />
             <e p="Related weapon stuff" t="Include">
               <e p="AmmoHandler.cs" t="Include" />
