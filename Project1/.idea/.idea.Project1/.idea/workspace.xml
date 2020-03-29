@@ -44,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EnumsSwitches.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfStatementsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiateDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TrailRenderController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -79,8 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoop.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfStatementsTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/Image.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/LightController.cs" />
@@ -130,6 +129,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/CharacterWeaponSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Pause.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoop.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" />
       </list>
     </option>
   </component>
@@ -245,6 +246,9 @@
       <workItem from="1585327953715" duration="569000" />
       <workItem from="1585417084433" duration="2149000" />
       <workItem from="1585420900917" duration="315000" />
+      <workItem from="1585499392387" duration="340000" />
+      <workItem from="1585499779291" duration="13000" />
+      <workItem from="1585499840157" duration="225000" />
     </task>
     <servers />
   </component>
