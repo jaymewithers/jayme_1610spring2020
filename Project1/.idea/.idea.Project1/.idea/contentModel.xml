@@ -58,6 +58,7 @@
             <e p="SpriteController.cs" t="Include" />
             <e p="TextBehaviour.cs" t="Include" />
           </e>
+          <e p="Coroutines.cs" t="Include" />
           <e p="EnumsSwitches.cs" t="Include" />
           <e p="EventPractice.cs" t="Include" />
           <e p="Homework" t="Include">

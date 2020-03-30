@@ -33,6 +33,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -68,6 +69,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Functions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Pause.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TransformFunctions.cs" root0="FORCE_HIGHLIGHTING" />
@@ -76,12 +78,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Arrays.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/Homework/Image.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/LightController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" />
@@ -131,6 +132,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Pause.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Coroutines.cs" />
       </list>
     </option>
   </component>
@@ -249,6 +252,7 @@
       <workItem from="1585499392387" duration="340000" />
       <workItem from="1585499779291" duration="13000" />
       <workItem from="1585499840157" duration="225000" />
+      <workItem from="1585584494795" duration="4592000" />
     </task>
     <servers />
   </component>
