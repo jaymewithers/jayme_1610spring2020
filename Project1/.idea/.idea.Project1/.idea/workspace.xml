@@ -30,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -40,6 +41,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Username.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/AmmoHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EnumsSwitches.cs" root0="FORCE_HIGHLIGHTING" />
@@ -83,8 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/LightController.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Practice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" />
@@ -132,8 +132,10 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Pause.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Coroutines.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -253,6 +255,7 @@
       <workItem from="1585499779291" duration="13000" />
       <workItem from="1585499840157" duration="225000" />
       <workItem from="1585584494795" duration="4592000" />
+      <workItem from="1585669256963" duration="1472000" />
     </task>
     <servers />
   </component>
@@ -279,10 +282,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581529752839" />
-    <state x="-1" y="10" width="738" height="761" key="dock-window-1" timestamp="1585238689810">
+    <state x="10" y="18" width="738" height="761" key="dock-window-1" timestamp="1585670080135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-1" y="10" width="738" height="761" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1585238689810" />
+    <state x="10" y="18" width="738" height="761" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1585670080135" />
     <state x="31" y="194" key="run.anything.popup" timestamp="1580233613778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

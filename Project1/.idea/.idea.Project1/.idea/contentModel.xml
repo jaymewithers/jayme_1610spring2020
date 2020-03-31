@@ -9,11 +9,13 @@
         <e p="scripts" t="Include">
           <e p="AtHomePractice" t="Include">
             <e p="Arrays.cs" t="Include" />
+            <e p="BasicTextBehavior.cs" t="Include" />
             <e p="BoolData.cs" t="Include" />
             <e p="CharacterMovement.cs" t="Include" />
             <e p="CharacterMoverPractice.cs" t="Include" />
             <e p="ColorChanger.cs" t="Include" />
             <e p="Conversation.cs" t="Include" />
+            <e p="CoroutinePractice.cs" t="Include" />
             <e p="DateTypeScript.cs" t="Include" />
             <e p="Destroy.cs" t="Include" />
             <e p="DropdownControl.cs" t="Include" />

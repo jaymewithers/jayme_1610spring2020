@@ -22,6 +22,5 @@ namespace Behaviors
         {
             textObj.text = obj.value.ToString();
         }
-        
     }
 }
