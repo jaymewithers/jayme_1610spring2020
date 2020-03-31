@@ -1,22 +1,25 @@
 ﻿using UnityEngine;
 
-[RequireComponent(typeof(Camera))]
-public class CameraController : MonoBehaviour
+namespace Behaviors
 {
-    public GameObject player;
-
-    private Vector3 offset;
-
-    private Camera cameraObj;
-    void Start()
+    [RequireComponent(typeof(Camera))]
+    public class CameraController : MonoBehaviour
     {
-        cameraObj = GetComponent<Camera>();
-        offset = transform.position - player.transform.position;
-    }
+        public GameObject player;
 
-    private void LateUpdate()
-    {
-        transform.position = player.transform.position + offset;
+        private Vector3 offset;
+
+        private Camera cameraObj;
+        void Start()
+        {
+            cameraObj = GetComponent<Camera>();
+            offset = transform.position - player.transform.position;
+        }
+
+        private void LateUpdate()
+        {
+            transform.position = player.transform.position + offset;
+        }
     }
 }
 

@@ -35,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -79,14 +80,13 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Arrays.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Practice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TextBehaviour.cs" />
@@ -136,6 +136,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCameraController.cs" />
       </list>
     </option>
   </component>
@@ -256,6 +258,9 @@
       <workItem from="1585499840157" duration="225000" />
       <workItem from="1585584494795" duration="4592000" />
       <workItem from="1585669256963" duration="1472000" />
+      <workItem from="1585678325581" duration="1183000" />
+      <workItem from="1585679541895" duration="5000" />
+      <workItem from="1585679582881" duration="318000" />
     </task>
     <servers />
   </component>

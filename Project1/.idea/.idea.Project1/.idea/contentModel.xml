@@ -44,6 +44,7 @@
             <e p="Spawn.cs" t="Include" />
             <e p="SpritePractice.cs" t="Include" />
             <e p="TransformFunctions.cs" t="Include" />
+            <e p="TwoDCameraController.cs" t="Include" />
             <e p="Username.cs" t="Include" />
             <e p="UsingDeltaTime.cs" t="Include" />
             <e p="UsingInstantiate.cs" t="Include" />
