@@ -30,12 +30,12 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -87,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" />
@@ -124,7 +123,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/EnumsSwitches.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/AmmoHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitch.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/NavMeshPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitchPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/CharacterWeaponSwitch.cs" />
@@ -138,6 +136,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
       </list>
     </option>
   </component>
@@ -261,6 +261,7 @@
       <workItem from="1585678325581" duration="1183000" />
       <workItem from="1585679541895" duration="5000" />
       <workItem from="1585679582881" duration="318000" />
+      <workItem from="1585757527819" duration="3590000" />
     </task>
     <servers />
   </component>

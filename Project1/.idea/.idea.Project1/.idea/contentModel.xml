@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
+          <e p="AlternateCoroutine.cs" t="Include" />
           <e p="AtHomePractice" t="Include">
             <e p="Arrays.cs" t="Include" />
             <e p="BasicTextBehavior.cs" t="Include" />
@@ -44,7 +45,6 @@
             <e p="Spawn.cs" t="Include" />
             <e p="SpritePractice.cs" t="Include" />
             <e p="TransformFunctions.cs" t="Include" />
-            <e p="TwoDCameraController.cs" t="Include" />
             <e p="Username.cs" t="Include" />
             <e p="UsingDeltaTime.cs" t="Include" />
             <e p="UsingInstantiate.cs" t="Include" />
