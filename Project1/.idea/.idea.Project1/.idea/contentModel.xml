@@ -9,6 +9,7 @@
         <e p="scripts" t="Include">
           <e p="AlternateCoroutine.cs" t="Include" />
           <e p="AtHomePractice" t="Include">
+            <e p="AlternateNavMesh.cs" t="Include" />
             <e p="Arrays.cs" t="Include" />
             <e p="BasicTextBehavior.cs" t="Include" />
             <e p="BoolData.cs" t="Include" />

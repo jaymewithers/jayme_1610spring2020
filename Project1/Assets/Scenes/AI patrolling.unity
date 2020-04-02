@@ -362,6 +362,7 @@ GameObject:
   - component: {fileID: 362655353}
   - component: {fileID: 362655358}
   - component: {fileID: 362655354}
+  - component: {fileID: 362655359}
   m_Layer: 0
   m_Name: Agent
   m_TagString: Untagged
@@ -482,6 +483,20 @@ MonoBehaviour:
   - {fileID: 818520014}
   - {fileID: 1594620139}
   - {fileID: 202549605}
+--- !u!114 &362655359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 362655352}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce08a8e7270d77640b6f425161bdfed6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 883973202}
+  speed: 8
 --- !u!4 &818520014 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7142483957009538554, guid: e7d1086b5ca189b459cd65279369672e,
