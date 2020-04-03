@@ -134,12 +134,12 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/AlternateNavMesh.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
       </list>
     </option>
   </component>
@@ -266,6 +266,7 @@
       <workItem from="1585757527819" duration="3590000" />
       <workItem from="1585849619768" duration="382000" />
       <workItem from="1585927482262" duration="1420000" />
+      <workItem from="1585929832607" duration="870000" />
     </task>
     <servers />
   </component>

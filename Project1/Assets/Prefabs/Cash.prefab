@@ -14,12 +14,12 @@ GameObject:
   - component: {fileID: 6492030407280487965}
   - component: {fileID: 6492030407280487964}
   m_Layer: 0
-  m_Name: Cash Bonus
+  m_Name: Cash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6492030407280487952
 Transform:
   m_ObjectHideFlags: 0
