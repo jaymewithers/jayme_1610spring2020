@@ -36,6 +36,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -88,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/FollowBehaviour.cs" />
@@ -139,6 +139,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/AlternateNavMesh.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" />
       </list>
     </option>
   </component>
@@ -264,6 +265,7 @@
       <workItem from="1585679582881" duration="318000" />
       <workItem from="1585757527819" duration="3590000" />
       <workItem from="1585849619768" duration="382000" />
+      <workItem from="1585927482262" duration="1420000" />
     </task>
     <servers />
   </component>

@@ -22,6 +22,7 @@
             <e p="Destroy.cs" t="Include" />
             <e p="DropdownControl.cs" t="Include" />
             <e p="Enemy.cs" t="Include" />
+            <e p="EnemyAI.cs" t="Include" />
             <e p="EnumScript.cs" t="Include" />
             <e p="Flight.cs" t="Include" />
             <e p="Flip.cs" t="Include" />

@@ -363,6 +363,7 @@ GameObject:
   - component: {fileID: 362655358}
   - component: {fileID: 362655354}
   - component: {fileID: 362655359}
+  - component: {fileID: 362655360}
   m_Layer: 0
   m_Name: Agent
   m_TagString: Untagged
@@ -497,6 +498,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 883973202}
   speed: 8
+--- !u!114 &362655360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 362655352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1993627758a66141bf2f9f40d17d7bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentEnemyState: 0
 --- !u!4 &818520014 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7142483957009538554, guid: e7d1086b5ca189b459cd65279369672e,
