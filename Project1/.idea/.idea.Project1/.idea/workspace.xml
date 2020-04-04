@@ -131,7 +131,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Coroutines.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCameraController.cs" />
@@ -140,6 +139,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/AlternateNavMesh.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" />
       </list>
     </option>
   </component>
@@ -267,6 +267,7 @@
       <workItem from="1585849619768" duration="382000" />
       <workItem from="1585927482262" duration="1420000" />
       <workItem from="1585929832607" duration="870000" />
+      <workItem from="1586026372221" duration="1255000" />
     </task>
     <servers />
   </component>

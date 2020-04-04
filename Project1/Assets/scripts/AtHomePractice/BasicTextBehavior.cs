@@ -7,10 +7,16 @@ namespace AtHomePractice
     public class BasicTextBehavior : MonoBehaviour
     {
         private Text textObj;
+        public IntData dataObj;
 
         void Start()
         {
             textObj = GetComponent<Text>();
+        }
+
+        private void Update()
+        {
+            textObj.text = dataObj.value.ToString();
         }
     }
 }
