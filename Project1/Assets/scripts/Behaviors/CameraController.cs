@@ -19,6 +19,7 @@ namespace Behaviors
         private void LateUpdate()
         {
             transform.position = player.transform.position + offset;
+            
         }
     }
 }

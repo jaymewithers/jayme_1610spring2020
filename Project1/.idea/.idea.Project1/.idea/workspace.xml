@@ -36,6 +36,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
@@ -89,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/FollowBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Flight.cs" />
@@ -138,8 +138,9 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/AlternateNavMesh.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" />
       </list>
     </option>
   </component>
@@ -268,6 +269,7 @@
       <workItem from="1585927482262" duration="1420000" />
       <workItem from="1585929832607" duration="870000" />
       <workItem from="1586026372221" duration="1255000" />
+      <workItem from="1586104595282" duration="2884000" />
     </task>
     <servers />
   </component>
