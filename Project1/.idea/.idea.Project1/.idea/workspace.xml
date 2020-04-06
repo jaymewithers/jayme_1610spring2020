@@ -140,8 +140,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" />
       </list>
     </option>
   </component>
@@ -272,6 +272,7 @@
       <workItem from="1586026372221" duration="1255000" />
       <workItem from="1586104595282" duration="2884000" />
       <workItem from="1586193170561" duration="250000" />
+      <workItem from="1586193727932" duration="635000" />
     </task>
     <servers />
   </component>
