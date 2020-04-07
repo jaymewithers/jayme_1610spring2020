@@ -31,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/Collectable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Conversation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,6 +43,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Username.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
@@ -91,9 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/FollowBehaviour.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Flight.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DiceGame.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Puzzle.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ActivatePuzzle.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/PuzzleControl.cs" />
@@ -142,6 +141,9 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Scriptable objects/Collectable.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ifelsestatement.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" />
       </list>
     </option>
   </component>
@@ -273,6 +275,7 @@
       <workItem from="1586104595282" duration="2884000" />
       <workItem from="1586193170561" duration="250000" />
       <workItem from="1586193727932" duration="635000" />
+      <workItem from="1586273512701" duration="3324000" />
     </task>
     <servers />
   </component>

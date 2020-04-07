@@ -29,6 +29,7 @@
             <e p="FollowBehaviour.cs" t="Include" />
             <e p="ForLoopTutorial.cs" t="Include" />
             <e p="Functions.cs" t="Include" />
+            <e p="ifelsestatement.cs" t="Include" />
             <e p="IfStatementsTutorial.cs" t="Include" />
             <e p="InvokeScript.cs" t="Include" />
             <e p="KeyCodeExperiments.cs" t="Include" />
