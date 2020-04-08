@@ -2,7 +2,7 @@
 
 namespace AtHomePractice
 {
-    public class Flip : MonoBehaviour
+    public class FlipScript : MonoBehaviour
     {
         public Vector3Data data;
 

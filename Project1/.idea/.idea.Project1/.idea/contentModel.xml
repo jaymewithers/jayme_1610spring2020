@@ -25,7 +25,7 @@
             <e p="EnemyAI.cs" t="Include" />
             <e p="EnumScript.cs" t="Include" />
             <e p="Flight.cs" t="Include" />
-            <e p="Flip.cs" t="Include" />
+            <e p="FlipScript.cs" t="Include" />
             <e p="FollowBehaviour.cs" t="Include" />
             <e p="ForLoopTutorial.cs" t="Include" />
             <e p="Functions.cs" t="Include" />
@@ -68,6 +68,7 @@
           <e p="Coroutines.cs" t="Include" />
           <e p="EnumsSwitches.cs" t="Include" />
           <e p="EventPractice.cs" t="Include" />
+          <e p="Flip.cs" t="Include" />
           <e p="Homework" t="Include">
             <e p="ButtonController.cs" t="Include" />
             <e p="CharacterWeaponSwitch.cs" t="Include" />
