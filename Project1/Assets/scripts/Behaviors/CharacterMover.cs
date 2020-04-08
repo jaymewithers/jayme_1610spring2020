@@ -15,9 +15,9 @@ public class CharacterMover : MonoBehaviour
     public UnityEvent jumpEvent;
 
         void Start()
-    {
-        controller = GetComponent<CharacterController>();
-    }
+        {
+            controller = GetComponent<CharacterController>();
+        }
     
     void Update()
     {

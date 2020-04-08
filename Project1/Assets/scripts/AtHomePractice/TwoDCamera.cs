@@ -17,7 +17,7 @@ namespace AtHomePractice
         
         void Update()
         {
-            transform.position = new Vector3(playerPosition.position.x, y: 13f, -49);
+            transform.position = new Vector3(playerPosition.position.x, y: 13.8f, -53);
         }
     }
 }
