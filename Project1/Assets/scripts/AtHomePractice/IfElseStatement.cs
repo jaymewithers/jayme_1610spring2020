@@ -1,8 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace AtHomePractice
-{
     [RequireComponent(typeof(Text))]
     public class IfElseStatement : MonoBehaviour
     {
@@ -39,4 +37,3 @@ namespace AtHomePractice
             }
         }
     }
-}

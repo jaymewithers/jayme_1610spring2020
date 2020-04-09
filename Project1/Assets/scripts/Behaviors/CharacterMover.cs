@@ -2,40 +2,40 @@
 using UnityEngine.Events;
 
 [RequireComponent(typeof(CharacterController))]
-public class CharacterMover : MonoBehaviour
-{
+    public class CharacterMover : MonoBehaviour
+    {
 
-    private CharacterController controller;
-    public Vector3 positionDirection;
-    public float speed = 10f;
-    public float gravity = 3f;
-    public float jumpForce = 3f;
-    private int jumpCount = 0;
-    public int jumpCountMax = 2;
-    public UnityEvent jumpEvent;
+        private CharacterController controller;
+        public Vector3 positionDirection;
+        public float speed = 10f;
+        public float gravity = 3f;
+        public float jumpForce = 3f;
+        private int jumpCount = 0;
+        public int jumpCountMax = 2;
+        public UnityEvent jumpEvent;
 
         void Start()
         {
             controller = GetComponent<CharacterController>();
         }
     
-    void Update()
-    {
-        if (controller.isGrounded)
+        void Update()
         {
-            positionDirection.y = 0;
-            jumpCount = 0;
-        }
-        positionDirection.x = Input.GetAxis("Horizontal") * speed;
+            if (controller.isGrounded)
+            {
+                positionDirection.y = 0;
+                jumpCount = 0;
+            }
+            positionDirection.x = Input.GetAxis("Horizontal") * speed;
        
-        if (Input.GetButtonDown("Jump") && jumpCount <= jumpCountMax)
-        {
-            jumpEvent.Invoke();
-            positionDirection.y = jumpForce;
-            jumpCount++;
-        }
+            if (Input.GetButtonDown("Jump") && jumpCount <= jumpCountMax)
+            {
+                jumpEvent.Invoke();
+                positionDirection.y = jumpForce;
+                jumpCount++;
+            }
         
-        positionDirection.y -= gravity;
-        controller.Move(positionDirection * Time.deltaTime);
-    }
+            positionDirection.y -= gravity;
+            controller.Move(positionDirection * Time.deltaTime); 
+        }
 }

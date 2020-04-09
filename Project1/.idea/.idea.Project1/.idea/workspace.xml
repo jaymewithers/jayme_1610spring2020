@@ -37,6 +37,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/MovingWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SceneSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
@@ -94,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/PuzzleControl.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorPuzzleLogic.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DropdownControl.cs" />
@@ -139,12 +139,13 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable objects/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ifelsestatement.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/FlipScript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Flip.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SceneSwitch.cs" />
       </list>
     </option>
   </component>
@@ -281,6 +282,7 @@
       <workItem from="1586304599795" duration="446000" />
       <workItem from="1586358724699" duration="77000" />
       <workItem from="1586362813667" duration="3352000" />
+      <workItem from="1586448960248" duration="1855000" />
     </task>
     <servers />
   </component>
