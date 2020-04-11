@@ -8,6 +8,8 @@ namespace AtHomePractice
         private Camera cameraObj;
         private Vector3 cameraPosition;
         public Transform playerPosition;
+        public float cameraHeight = 13.8f;
+        public float cameraDepth = -53;
 
         void Start()
         {
@@ -17,7 +19,7 @@ namespace AtHomePractice
         
         void Update()
         {
-            transform.position = new Vector3(playerPosition.position.x, y: 13.8f, -53);
+            transform.position = new Vector3 (playerPosition.position.x, y: cameraHeight, cameraDepth);
         }
     }
 }

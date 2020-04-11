@@ -8,3 +8,5 @@ public class SceneSwitch : MonoBehaviour
         SceneManager.LoadScene("Final Game/Level2");
     }
 }
+
+// help from unity answers
