@@ -120,7 +120,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Debugger.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/EnumsSwitches.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/AmmoHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/NavMeshPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitchPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/CharacterWeaponSwitch.cs" />
@@ -146,6 +145,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SceneSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitch.cs" />
       </list>
     </option>
   </component>
@@ -284,6 +284,7 @@
       <workItem from="1586362813667" duration="3352000" />
       <workItem from="1586448960248" duration="1855000" />
       <workItem from="1586628320843" duration="1638000" />
+      <workItem from="1586722062624" duration="293000" />
     </task>
     <servers />
   </component>
