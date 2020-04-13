@@ -37,6 +37,7 @@ namespace Behaviors
 
         void Update()
         {
+            transform.LookAt(agent.steeringTarget);
             if (canHunt)
             {
                 agent.destination = currentDestination.position;

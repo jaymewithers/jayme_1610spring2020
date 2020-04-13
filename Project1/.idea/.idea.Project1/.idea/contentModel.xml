@@ -70,6 +70,7 @@
           <e p="EnumsSwitches.cs" t="Include" />
           <e p="EventPractice.cs" t="Include" />
           <e p="Flip.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
           <e p="Homework" t="Include">
             <e p="ButtonController.cs" t="Include" />
             <e p="CharacterWeaponSwitch.cs" t="Include" />
@@ -95,6 +96,7 @@
             <e p="StringData.cs" t="Include" />
             <e p="Vector3Data.cs" t="Include" />
           </e>
+          <e p="Shooter.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
         </e>

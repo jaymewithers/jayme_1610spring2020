@@ -79,6 +79,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/KeyCodeExperiments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/AlternateNavMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Pause.cs" root0="FORCE_HIGHLIGHTING" />
@@ -90,13 +91,12 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Shooter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorPuzzleLogic.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DropdownControl.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Monobehaviours.cs" />
@@ -140,12 +140,14 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ifelsestatement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/FlipScript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Flip.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SceneSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
       </list>
     </option>
   </component>
@@ -285,6 +287,7 @@
       <workItem from="1586448960248" duration="1855000" />
       <workItem from="1586628320843" duration="1638000" />
       <workItem from="1586722062624" duration="293000" />
+      <workItem from="1586794845032" duration="3252000" />
     </task>
     <servers />
   </component>

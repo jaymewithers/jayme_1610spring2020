@@ -14,12 +14,12 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Player Weapons
+  - Enemy
+  - Enemy Weapons
+  - Ground Wall etc
+  - Power ups / downs
   - 
   - 
   - 
