@@ -23,9 +23,9 @@ namespace AtHomePractice
 
         private void Update()
         {
-            if (count == 100)
+            if (count == 80)
             {
-                print("Time's up.");
+                print("Faster! Hurry!");
             }
         }
     }

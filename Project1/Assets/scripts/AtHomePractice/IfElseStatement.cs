@@ -1,10 +1,7 @@
 ﻿using UnityEngine;
-using UnityEngine.UI;
 
-    [RequireComponent(typeof(Text))]
-    public class IfElseStatement : MonoBehaviour
+public class IfElseStatement : MonoBehaviour
     {
-        private Text textObj;
         public int levelOne = 0;
         public int levelTwo = 1;
         public int levelThree = 2;
@@ -12,7 +9,6 @@ using UnityEngine.UI;
 
         void Start()
         {
-            textObj = GetComponent<Text>();
             currentLevel = levelOne;
         }
 
@@ -21,19 +17,19 @@ using UnityEngine.UI;
         {
             if (currentLevel == levelOne)
             {
-                textObj.text = "Level One";
+                print("Level One");
             }
             else if (currentLevel == levelTwo)
             {
-                textObj.text = "Level Two";
+                print("Level Two");
             }
             else if (currentLevel == levelThree)
             {
-                textObj.text = "Level Three";
+                print("Level Three");
             }
             else
             {
-                textObj.text = "Invalid";
+                print("Invalid");
             }
         }
     }

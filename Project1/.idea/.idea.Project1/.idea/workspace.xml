@@ -30,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/ListAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/Collectable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,6 +43,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Username.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -97,8 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DropdownControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Monobehaviours.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Vector3Data.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/Return.cs" />
@@ -126,7 +126,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Pause.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoop.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" />
@@ -140,7 +139,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ifelsestatement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/FlipScript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Flip.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/SceneSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" />
@@ -148,6 +146,10 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DelayedStart.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" />
       </list>
     </option>
   </component>
@@ -288,6 +290,8 @@
       <workItem from="1586628320843" duration="1638000" />
       <workItem from="1586722062624" duration="293000" />
       <workItem from="1586794845032" duration="3252000" />
+      <workItem from="1586885154684" duration="2083000" />
+      <workItem from="1586888209932" duration="2276000" />
     </task>
     <servers />
   </component>
@@ -310,6 +314,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="499" y="137" key="RiderGenerateDialog" timestamp="1586888886074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="137" key="RiderGenerateDialog/0.0.1536.824@0.0.1536.824" timestamp="1586888886074" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1581529752839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
