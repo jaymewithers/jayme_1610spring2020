@@ -98,6 +98,7 @@
             <e p="Vector3Data.cs" t="Include" />
           </e>
           <e p="Shooter.cs" t="Include" />
+          <e p="TransformBehavior.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
         </e>

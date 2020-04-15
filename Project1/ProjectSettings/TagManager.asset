@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Enemy Weapons
   - Ground Wall etc
   - Power ups / downs
-  - 
+  - Platform
   - 
   - 
   - 
