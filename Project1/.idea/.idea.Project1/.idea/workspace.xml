@@ -52,6 +52,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SingleCharacterScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/AmmoHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/ParticleBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/FlipScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Flip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" root0="FORCE_HIGHLIGHTING" />
@@ -100,8 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/Vector3Data.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Homework/Return.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/PracticeTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Username.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Spawn.cs" />
@@ -122,7 +121,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/AmmoHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/NavMeshPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitchPractice.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Homework/CharacterWeaponSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Pause.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoop.cs" />
@@ -144,13 +142,16 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/WeaponSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DelayedStart.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TransformBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Homework/CharacterWeaponSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForEachLoop.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ParticleBehavior.cs" />
       </list>
     </option>
   </component>
@@ -293,7 +294,8 @@
       <workItem from="1586794845032" duration="3252000" />
       <workItem from="1586885154684" duration="2083000" />
       <workItem from="1586888209932" duration="2276000" />
-      <workItem from="1586969263933" duration="1803000" />
+      <workItem from="1586969263933" duration="1891000" />
+      <workItem from="1587086134781" duration="6093000" />
     </task>
     <servers />
   </component>

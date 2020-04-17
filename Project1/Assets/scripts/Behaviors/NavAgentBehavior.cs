@@ -13,7 +13,7 @@ namespace Behaviors
         private Transform currentDestination;
         private int i;
         public bool canHunt;
-    
+
         public List<Transform> patrolPoints;
     
         void Start()

@@ -23,15 +23,12 @@ namespace Homework
             {
                 case WeaponOptions.WoodSword:
                     woodSwordEvent.Invoke();
-                    print("Wood sword equipped.");
                     break;
                 case WeaponOptions.MetalSword:
                     metalSwordEvent.Invoke();
-                    print("Metal sword equipped.");
                     break;
                 case WeaponOptions.LaserSword:
                     laserSwordEvent.Invoke();
-                    print("Laser sword equipped.");
                     break;
                 default:
                     throw new ArgumentOutOfRangeException();
