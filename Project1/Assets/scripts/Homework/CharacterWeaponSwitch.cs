@@ -7,7 +7,7 @@ namespace Homework
     public class CharacterWeaponSwitch : MonoBehaviour
     {
         public UnityEvent woodSwordEvent, metalSwordEvent, laserSwordEvent;
-        
+
         public enum WeaponOptions
         {
             WoodSword,

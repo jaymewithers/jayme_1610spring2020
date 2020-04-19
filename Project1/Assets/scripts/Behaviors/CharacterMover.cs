@@ -12,7 +12,7 @@ using UnityEngine.Events;
         public float jumpForce = 3f;
         private int jumpCount = 0;
         public int jumpCountMax = 2;
-        public UnityEvent jumpEvent;
+        public UnityEvent jumpEvent, attackEvent;
 
         void Start()
         {
@@ -36,6 +36,11 @@ using UnityEngine.Events;
             }
         
             positionDirection.y -= gravity;
-            controller.Move(positionDirection * Time.deltaTime); 
+            controller.Move(positionDirection * Time.deltaTime);
+
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                attackEvent.Invoke();
+            }
         }
-}
+    }
