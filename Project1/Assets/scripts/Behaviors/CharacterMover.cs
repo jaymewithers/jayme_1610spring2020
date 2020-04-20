@@ -38,8 +38,8 @@ using UnityEngine.Events;
             positionDirection.y -= gravity;
             controller.Move(positionDirection * Time.deltaTime);
 
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
+           if (Input.GetKeyDown(KeyCode.Space))
+            { 
                 attackEvent.Invoke();
             }
         }

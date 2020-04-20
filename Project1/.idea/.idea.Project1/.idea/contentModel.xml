@@ -7,7 +7,6 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
-          <e p="AlternateCoroutine.cs" t="Include" />
           <e p="AtHomePractice" t="Include">
             <e p="AlternateNavMesh.cs" t="Include" />
             <e p="Arrays.cs" t="Include" />
@@ -101,6 +100,7 @@
             <e p="Vector3Data.cs" t="Include" />
           </e>
           <e p="Shooter.cs" t="Include" />
+          <e p="SimpleCoroutine.cs" t="Include" />
           <e p="TransformBehavior.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />

@@ -31,7 +31,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/ListAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/Collectable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TransformBehavior.cs" root0="FORCE_HIGHLIGHTING" />
@@ -43,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CharacterMoverPractice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -103,8 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Spawn.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BoolData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Flip.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponConfig.cs" />
@@ -128,7 +126,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TwoDCameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/AlternateNavMesh.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnemyAI.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/BasicTextBehavior.cs" />
@@ -146,14 +143,17 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TransformBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForEachLoop.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ParticleBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/CharacterWeaponSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
       </list>
     </option>
   </component>
@@ -301,6 +301,7 @@
       <workItem from="1587238031973" duration="2038000" />
       <workItem from="1587317426208" duration="1256000" />
       <workItem from="1587318979434" duration="1032000" />
+      <workItem from="1587398752138" duration="2580000" />
     </task>
     <servers />
   </component>
