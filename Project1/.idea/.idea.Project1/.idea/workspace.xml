@@ -89,6 +89,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EventPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Pause.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/NavAgentBehaviorPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TransformFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/DateTypeScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -103,7 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Flip.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponConfig.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Functions.cs" />
@@ -143,9 +143,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TransformBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForEachLoop.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ParticleBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/CharacterWeaponSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponController.cs" />
@@ -154,6 +152,9 @@
         <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/NavAgentBehaviorPractice.cs" />
       </list>
     </option>
   </component>
@@ -302,6 +303,7 @@
       <workItem from="1587317426208" duration="1256000" />
       <workItem from="1587318979434" duration="1032000" />
       <workItem from="1587398752138" duration="2580000" />
+      <workItem from="1587491832894" duration="3109000" />
     </task>
     <servers />
   </component>
@@ -332,10 +334,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581529752839" />
-    <state x="-2" y="21" width="738" height="761" key="dock-window-1" timestamp="1585849936108">
+    <state x="356" y="110" width="738" height="761" key="dock-window-1" timestamp="1587496509250">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-2" y="21" width="738" height="761" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1585849936108" />
+    <state x="356" y="110" width="738" height="761" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1587496509250" />
     <state x="31" y="194" key="run.anything.popup" timestamp="1580233613778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
