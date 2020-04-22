@@ -93,6 +93,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TransformFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/DateTypeScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Arrays.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
@@ -104,9 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponConfig.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ListsAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ListAndLoops.cs" />
@@ -151,10 +149,13 @@
         <option value="$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/NavAgentBehaviorPractice.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/StartPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Scriptable objects/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" />
       </list>
     </option>
   </component>
@@ -304,6 +305,7 @@
       <workItem from="1587318979434" duration="1032000" />
       <workItem from="1587398752138" duration="2580000" />
       <workItem from="1587491832894" duration="3109000" />
+      <workItem from="1587572793484" duration="2790000" />
     </task>
     <servers />
   </component>
