@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -7,11 +8,16 @@ public class SimpleCoroutine : MonoBehaviour
     public float seconds = 1f;
     private WaitForSeconds waitObj;
     public bool canRun { get; set; } = true;
-    public UnityEvent repeatEvent;
+    public UnityEvent startEvent, repeatEvent;
 
     private void Awake()
     {
         waitObj = new WaitForSeconds(seconds);
+    }
+
+    private void Start()
+    {
+        startEvent.Invoke();
     }
 
     public void Restart()

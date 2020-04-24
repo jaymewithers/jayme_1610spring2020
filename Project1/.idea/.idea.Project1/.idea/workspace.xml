@@ -45,6 +45,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TriggerEventsStayExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Ammo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/EnumScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Username.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -100,13 +101,12 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Shooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/InstancingBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/ListsAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ListAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CollectableList.cs" />
@@ -142,20 +142,22 @@
         <option value="$PROJECT_DIR$/Assets/scripts/TransformBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForEachLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ParticleBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Homework/CharacterWeaponSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/NavAgentBehaviorPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/StartPoint.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable objects/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/InstancingBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Ammo.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
       </list>
     </option>
   </component>
@@ -306,6 +308,7 @@
       <workItem from="1587398752138" duration="2580000" />
       <workItem from="1587491832894" duration="3109000" />
       <workItem from="1587572793484" duration="2790000" />
+      <workItem from="1587686606406" duration="2761000" />
     </task>
     <servers />
   </component>
