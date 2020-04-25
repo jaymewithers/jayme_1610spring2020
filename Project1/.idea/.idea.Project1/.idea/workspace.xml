@@ -59,6 +59,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/VariablesAndFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EnumsSwitches.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfStatementsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/TriggerPause.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
@@ -107,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/ListAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CollectableList.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponButtonHandler.cs" />
@@ -146,18 +146,19 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WeaponController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AlternateCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TriggerEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/NavAgentBehaviorPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/StartPoint.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable objects/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/InstancingBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Ammo.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TriggerPause.cs" />
       </list>
     </option>
   </component>
@@ -309,6 +310,7 @@
       <workItem from="1587491832894" duration="3109000" />
       <workItem from="1587572793484" duration="2790000" />
       <workItem from="1587686606406" duration="2761000" />
+      <workItem from="1587831064239" duration="1702000" />
     </task>
     <servers />
   </component>

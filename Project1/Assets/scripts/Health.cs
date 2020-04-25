@@ -2,7 +2,7 @@
 
 public class Health : MonoBehaviour
 {
-    public int healthValue = 3;
+    public int healthValue = 1;
 
     private void OnTriggerEnter(Collider other)
     {
