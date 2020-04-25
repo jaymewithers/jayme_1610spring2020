@@ -31,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/ListAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/PlayerDeath.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/Collectable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/CoroutinePractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TransformBehavior.cs" root0="FORCE_HIGHLIGHTING" />
@@ -108,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CollectableList.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponButtonHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponHandler.cs" />
@@ -159,6 +159,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TriggerPause.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/PlayerDeath.cs" />
       </list>
     </option>
   </component>
@@ -310,7 +311,7 @@
       <workItem from="1587491832894" duration="3109000" />
       <workItem from="1587572793484" duration="2790000" />
       <workItem from="1587686606406" duration="2761000" />
-      <workItem from="1587831064239" duration="1702000" />
+      <workItem from="1587831064239" duration="3766000" />
     </task>
     <servers />
   </component>

@@ -1,10 +1,12 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 
 public class TriggerPause : MonoBehaviour
 {
-    private void OnTriggerEnter(Collider other)
+    IEnumerator OnTriggerEnter(Collider other)
     {
-        Time.timeScale = 0;
         print("Game Completed! Congratulations!");
+        yield return new  WaitForSeconds(5);
+        Time.timeScale = 0;
     }
 }

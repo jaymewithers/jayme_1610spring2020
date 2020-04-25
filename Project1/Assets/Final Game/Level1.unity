@@ -122,6 +122,7 @@ GameObject:
   m_Component:
   - component: {fileID: 74772153}
   - component: {fileID: 74772152}
+  - component: {fileID: 74772154}
   m_Layer: 0
   m_Name: Startpoint
   m_TagString: Untagged
@@ -156,6 +157,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 56
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &74772154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74772151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62583cdfe54f47c4e91e0cec2902be12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 930802353}
+  value: {fileID: 11400000, guid: f160278771037044cb47864811445a04, type: 2}
+  startPoint: {x: -23.05, y: 7.67, z: -33}
 --- !u!1001 &79962416
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1444,7 +1460,7 @@ PrefabInstance:
     - target: {fileID: 6370752416318560302, guid: 9eaa331f6335a6c4ea94c12a67b24076,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 13.1
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 6370752416318560302, guid: 9eaa331f6335a6c4ea94c12a67b24076,
         type: 3}
@@ -16999,7 +17015,7 @@ PrefabInstance:
     - target: {fileID: 6370752416318560302, guid: 9eaa331f6335a6c4ea94c12a67b24076,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 13.2
+      value: 15.2
       objectReference: {fileID: 0}
     - target: {fileID: 6370752416318560302, guid: 9eaa331f6335a6c4ea94c12a67b24076,
         type: 3}
