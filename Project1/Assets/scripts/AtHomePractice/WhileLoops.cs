@@ -7,13 +7,13 @@ public class WhileLoops : MonoBehaviour
 
     IEnumerator coinCheck ()
     {
-        while (coinCount < 12)
+        while (coinCount < 30)
         {
             print("Get all the coins!");
             yield return new WaitForSeconds(5);
         }
 
-        if (coinCount == 12)
+        if (coinCount == 30)
         {
             print("All coins collected.");
         }

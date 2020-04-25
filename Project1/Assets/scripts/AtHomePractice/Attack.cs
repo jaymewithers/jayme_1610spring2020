@@ -2,14 +2,13 @@
 
 public class Attack : MonoBehaviour
 {
-    public Health enemy1, enemy2, enemy3, enemy4, enemy5;
+    public Health enemy;
+
     private void OnTriggerEnter(Collider other)
     {
-        if (!Input.GetKeyDown(KeyCode.Space)) return;
-        enemy1.healthValue--;
-        enemy2.healthValue--;
-        enemy3.healthValue--;
-        enemy4.healthValue--;
-        enemy5.healthValue--;
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+             enemy.healthValue--;
+        }
     }
 }

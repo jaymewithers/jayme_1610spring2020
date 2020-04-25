@@ -26,7 +26,6 @@ public class Shooter : MonoBehaviour
     public void AimAndShoot()
     {
         mouseLocation = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        object var;
         var instance = Instantiate(ammo, transform.position, Quaternion.identity);
         instance.transform.LookAt(mouseLocation);
     }

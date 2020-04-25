@@ -138,7 +138,6 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForLoopTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/IfElseStatement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/DelayedStart.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TransformBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ForEachLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/ParticleBehavior.cs" />
@@ -154,12 +153,13 @@
         <option value="$PROJECT_DIR$/Assets/scripts/InstancingBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Ammo.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TriggerPause.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/PlayerDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
       </list>
     </option>
   </component>
@@ -312,6 +312,7 @@
       <workItem from="1587572793484" duration="2790000" />
       <workItem from="1587686606406" duration="2761000" />
       <workItem from="1587831064239" duration="3766000" />
+      <workItem from="1587850386525" duration="6325000" />
     </task>
     <servers />
   </component>
