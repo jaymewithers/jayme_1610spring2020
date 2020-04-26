@@ -1,27 +1,17 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerDeath : MonoBehaviour
 {
     public GameObject player;
     public FloatData value;
-    public Vector3 startPoint;
-
-    private void Start()
-    {
-        startPoint = player.transform.position;
-    }
+    public IntData coins;
 
     void Update()
     {
-        if (value.value <= 0)
-        {
-            player.transform.position = startPoint;
-        }
-
-        if (player.transform.position == startPoint)
-        {
-            value.value = 1;
-        }
+        if (!(value.value <= 0)) return;
+        SceneManager.LoadScene("Level1");
+        value.value = 1;
+        coins.value = 0;
     }
 }

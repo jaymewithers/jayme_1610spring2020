@@ -155,12 +155,12 @@
         <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TriggerPause.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/PlayerDeath.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/MouseShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/PlayerDeath.cs" />
       </list>
     </option>
   </component>
@@ -315,6 +315,7 @@
       <workItem from="1587831064239" duration="3766000" />
       <workItem from="1587850386525" duration="6325000" />
       <workItem from="1587919059185" duration="1866000" />
+      <workItem from="1587928403379" duration="1918000" />
     </task>
     <servers />
   </component>
