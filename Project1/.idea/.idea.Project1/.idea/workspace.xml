@@ -28,8 +28,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/UsingInstantiate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/SpritePractice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseShooter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Homework/TextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/Shooter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/ListAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/PlayerDeath.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable objects/Collectable.cs" root0="FORCE_HIGHLIGHTING" />
@@ -102,15 +104,12 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AtHomePractice/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/Shooter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/InstancingBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/CollectableList.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponButtonHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Related weapon stuff/WeaponHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Debugger.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/EnumsSwitches.cs" />
@@ -157,9 +156,11 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/TriggerPause.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/WhileLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/PlayerDeath.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Attack.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Shooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AtHomePractice/Shooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/MouseShooter.cs" />
       </list>
     </option>
   </component>
@@ -313,6 +314,7 @@
       <workItem from="1587686606406" duration="2761000" />
       <workItem from="1587831064239" duration="3766000" />
       <workItem from="1587850386525" duration="6325000" />
+      <workItem from="1587919059185" duration="1866000" />
     </task>
     <servers />
   </component>

@@ -49,6 +49,7 @@
               <e p="WeaponHandler.cs" t="Include" />
             </e>
             <e p="SceneSwitch.cs" t="Include" />
+            <e p="Shooter.cs" t="Include" />
             <e p="SingleCharacterScript.cs" t="Include" />
             <e p="Spawn.cs" t="Include" />
             <e p="SpritePractice.cs" t="Include" />
@@ -93,6 +94,7 @@
           <e p="InstancingBehavior.cs" t="Include" />
           <e p="Monobehaviours.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
+          <e p="MouseShooter.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="Newer.cs" t="Include" />
           <e p="Scriptable objects" t="Include">
@@ -105,7 +107,6 @@
             <e p="StringData.cs" t="Include" />
             <e p="Vector3Data.cs" t="Include" />
           </e>
-          <e p="Shooter.cs" t="Include" />
           <e p="SimpleCoroutine.cs" t="Include" />
           <e p="TransformBehavior.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />

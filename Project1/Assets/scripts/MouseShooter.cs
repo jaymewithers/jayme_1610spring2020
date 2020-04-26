@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class Shooter : MonoBehaviour
+public class MouseShooter : MonoBehaviour
 {
     public GameObject ammo;
-    public AudioSource sound;
+   // public AudioSource sound;
     public UnityEvent fireEvent;
     private Vector2 mouseLocation;
 
@@ -20,7 +20,7 @@ public class Shooter : MonoBehaviour
     {
         var ammoTransform = transform;
         Instantiate(ammo, ammoTransform.position, ammoTransform.rotation);
-        sound.Play();
+      //  sound.Play();
     }
     
     public void AimAndShoot()
