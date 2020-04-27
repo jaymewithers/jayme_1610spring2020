@@ -3,7 +3,6 @@ using UnityEngine.SceneManagement;
 
 public class PlayerDeath : MonoBehaviour
 {
-    public GameObject player;
     public FloatData value;
     public IntData coins;
 
